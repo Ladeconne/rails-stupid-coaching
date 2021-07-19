@@ -1,0 +1,23 @@
+.message {
+  border-left-width: 5px;
+  border-left-style: solid;
+  border-left-color: grey;
+  margin: 1em;
+  padding: .5em;
+  background-color: #edffd3;
+  width: auto;
+}
+
+.text-input {
+  padding: .5em;
+  color: yellowgreen;
+}
+
+.submit-btn {
+  padding: .5em;
+  margin-left: .2em;
+  background-color: yellowgreen;
+  color: white;
+  border-style: solid;
+}
+/*# sourceMappingURL=questions.css.map */
